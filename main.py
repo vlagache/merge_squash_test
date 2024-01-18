@@ -1,2 +1,2 @@
-def random_function()
-    print("random")
+def random_function():
+    print("random ou pas")
