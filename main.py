@@ -1,5 +1,5 @@
 def random_function():
-    print("random xxxx")
+    print("random ou pas et encore une autre version")
 
 def feature_1():
     print("feature 1")
